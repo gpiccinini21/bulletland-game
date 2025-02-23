@@ -52,7 +52,6 @@ Library: D:\Programas\Unity\Projects\bulletland\Temp\BurstOutput\Data\Plugins\x8
 --linker-options=PdbAltPath="bullet_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\Programas\Unity\Projects\bulletland\Temp\Burst
---debug=Full
 --key-folder=D:/Programas/Unity/Hub/Editor/2022.3.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\Programas\Unity\Projects\bulletland\Library\Burst
 --output=D:\Programas\Unity\Projects\bulletland\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -142,7 +141,6 @@ Library: D:\Programas\Unity\Projects\bulletland\Temp\BurstOutput\Data\Plugins\x8
 --linker-options=PdbAltPath="bullet_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\Programas\Unity\Projects\bulletland\Temp\Burst
---debug=Full
 --key-folder=D:/Programas/Unity/Hub/Editor/2022.3.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\Programas\Unity\Projects\bulletland\Library\Burst
 --output=D:\Programas\Unity\Projects\bulletland\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
