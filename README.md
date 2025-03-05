@@ -12,8 +12,8 @@ Download the latest version here (Windows only, for now):
 
 [![Download_button]][Download_link] [![Version]][Text]
 
-[Download_button]: https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=files&logoColor=white
+[Download_button]: https://img.shields.io/badge/Download-00CC66?style=for-the-badge&logo=files&logoColor=white
 [Download_link]: https://github.com/gpiccinini21/bulletland-game/archive/refs/heads/main.zip
 
-[Version]: https://img.shields.io/badge/version-0.1.1-blue?style=for-the-badge&logoColor=white
+[Version]: https://img.shields.io/github/v/release/gpiccinini21/bulletland-game?display_name=release&style=for-the-badge&label=version&color=blue
 [Text]: # 'Current version'
