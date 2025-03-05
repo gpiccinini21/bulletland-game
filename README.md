@@ -10,10 +10,10 @@ El juego será actualizado, añadiendo más funcionalidades y contenido en el fu
 # Download
 Download the latest version here (Windows only, for now):
 
-[![Download_button]][Download_link] [![Version]][Text]
+[![Download_button]][Download_link] [![Version]][Latest]
 
 [Download_button]: https://img.shields.io/badge/Download-00CC66?style=for-the-badge&logo=files&logoColor=white
 [Download_link]: https://github.com/gpiccinini21/bulletland-game/archive/refs/heads/main.zip
 
-[Version]: https://img.shields.io/github/v/release/gpiccinini21/bulletland-game?display_name=release&style=for-the-badge&label=version&color=blue
-[Text]: # 'Current version'
+[Version]: https://img.shields.io/github/v/release/gpiccinini21/bulletland-game?style=for-the-badge&label=latest%20version&color=blue
+[Latest]: https://github.com/gpiccinini21/bulletland-game/releases/latest
