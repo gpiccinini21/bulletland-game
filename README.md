@@ -7,6 +7,11 @@ Bulletland es un juego rogue-like / bullet hell hecho en Unity que comenzó como
 El juego en su estado actual utiliza recursos placeholder y diseños que no son finales.
 El juego será actualizado, añadiendo más funcionalidades y contenido en el futuro.
 
+# Screenshots
+![start](https://github.com/user-attachments/assets/0dc44d79-3bae-4ef3-b589-14ec59fd79a6)
+![mejoraarmas](https://github.com/user-attachments/assets/08ebcfdd-86e7-4d1c-b737-f227d0055772)
+![level1](https://github.com/user-attachments/assets/dc4a9b10-4a4e-4016-8b0f-6ff52b33dde6)
+
 # Download
 Download the latest version here (Windows only, for now):
 
